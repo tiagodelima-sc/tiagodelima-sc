@@ -1,10 +1,10 @@
-<h1 align="center"> Bem Vindo Pessoal </h1>
+<h1 align="center"> Bem Vindo </h1>
 <hr />
 <a href="https://github.com/tiagodelima-sc" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
-  <b>Olá, tudo bem com você?</b>
+  <i><b>Olá, tudo bem com você?</b></i>
 </p>
 <a href="https://www.instagram.com/t_schermaack/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
@@ -23,7 +23,7 @@ Eu estou cursando Análise e Desenvolvimento de Sistemas (IFSC), juntamente com 
 
 **Mais sobre mim:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85589473/132110952-05211827-f51a-4706-a674-9c36550e38a1.png" width="500px" />
 
 - Estou concluindo o curso de Análise e Desenvolvimento de Sistemas.
 - Eu gosto muito de aprender novas tecnologias
@@ -48,3 +48,4 @@ Eu estou cursando Análise e Desenvolvimento de Sistemas (IFSC), juntamente com 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 
 </p>
+
