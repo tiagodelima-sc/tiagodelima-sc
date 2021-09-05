@@ -12,7 +12,7 @@
 <p align="left" >
 Meu nome é <b> Tiago de Lima</b>.
 </p>
-<a href="https://www.linkedin.com/in/tiago-de-lima-244a7119b/" target="_blank">
+<a href="https://www.linkedin.com/in/tiago-de-lima-sc/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -29,7 +29,7 @@ Eu estou cursando Análise e Desenvolvimento de Sistemas (IFSC), juntamente com 
 - Eu gosto muito de aprender novas tecnologias
 - Atualmente estou focando em Desenvolvimento WEB
 - Caso queira entrar em contato, pode enviar um email para tiago.l07@aluno.ifsc.edu.br
-- Veja meu <a href="https://drive.google.com/file/d/1LBaL8MXq1x99ZrrrTta2FDG0j--AIhvR/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- Veja meu <a href="https://1drv.ms/w/s!AnwgQt_y5FLqky6-e0K92q5IJGf8?e=VWDhem" target="_blank">Currículo</a> para mais informações.
 
 
 
