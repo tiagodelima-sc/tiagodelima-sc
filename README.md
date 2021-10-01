@@ -16,9 +16,8 @@ Meu nome é <b> Tiago de Lima</b>.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-<p align="left" >
-Atualmente eu estou morando em Três Barras - SC.<br />
-Eu estou cursando Análise e Desenvolvimento de Sistemas (IFSC), juntamente com vários cursos para estar aperfeiçoando minhas skills e seguir minha carreira como  <b>Desenvolvedor de Software</b>.
+
+No momento eu estou cursando Análise e Desenvolvimento de Sistemas (IFSC)</b>.
 </p>
 
 **Mais sobre mim:**
