@@ -26,7 +26,6 @@ Eu estou cursando Análise e Desenvolvimento de Sistemas (IFSC), juntamente com 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85589473/132110952-05211827-f51a-4706-a674-9c36550e38a1.png" width="500px" />
 
 - Estou concluindo o curso de Análise e Desenvolvimento de Sistemas.
-- Eu gosto muito de aprender novas tecnologias
 - Atualmente estou focando em Desenvolvimento WEB
 - Caso queira entrar em contato, pode enviar um email para tiago.l07@aluno.ifsc.edu.br
 - Veja meu <a href="https://1drv.ms/w/s!AnwgQt_y5FLqky6-e0K92q5IJGf8?e=ByNpOg" target="_blank">Currículo</a> para mais informações.
