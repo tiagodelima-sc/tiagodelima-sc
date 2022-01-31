@@ -27,7 +27,7 @@ No momento eu estou cursando Análise e Desenvolvimento de Sistemas (IFSC)</b>.
 - Estou concluindo o curso de Análise e Desenvolvimento de Sistemas.
 - Atualmente estou focando em Desenvolvimento WEB
 - Caso queira entrar em contato, pode enviar um email para tiago.l07@aluno.ifsc.edu.br
-- Veja meu <a href="https://1drv.ms/w/s!AnwgQt_y5FLqky6-e0K92q5IJGf8?e=ByNpOg" target="_blank">Currículo</a> para mais informações.
+
 
 
 
