@@ -5,7 +5,7 @@
 - :briefcase: Currently working as a Junior Front-end Developer with PHP
 - 💻 Techs: HTML, CSS, JavaScript, PHP, Bootstrap.
 
-Get in touch :wave:
+Get in touch 
 
 ---
 
