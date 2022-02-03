@@ -1,8 +1,8 @@
 
 ### Hey there! 👋
 
-- :man_technologist:  Web Developer with focus on Front-end. I am passionate about building projects that impact people's lives :dizzy:
-- :briefcase: Currently working as a Junior Front-end Developer with React
+- :man_technologist:  Web Developer.
+- :briefcase: Currently working as a Junior Front-end Developer with PHP
 - 💻 Techs: HTML, CSS, JavaScript, PHP, Bootstrap.
 
 Get in touch :wave:
